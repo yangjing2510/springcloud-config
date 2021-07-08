@@ -1,4 +1,4 @@
 config:
-  info: config-dev.yml,v1.0.0
+  info: config-dev.yml,v1.0.1
 #    name: config-dev.yml
 #    version: v1.0.0
