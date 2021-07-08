@@ -1,1 +1,4 @@
-version: v1.0.0
+config:
+  info:
+    name: config-prod.yml
+    version: v1.0.0
